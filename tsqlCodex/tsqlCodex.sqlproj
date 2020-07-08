@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Requêtes\CompterNbLignesParTable.sql" />
+    <None Include="Requêtes\ConcatenateOnGroupBy.sql" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\Calendar.sql" />
